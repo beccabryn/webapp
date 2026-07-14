@@ -1,0 +1,9 @@
+{
+  "widgets": [
+    {
+      "name": "Flight",
+      "url": "flight/",
+      "l2_url": "app/flight/"
+    }
+  ]
+}
